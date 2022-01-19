@@ -1,0 +1,5 @@
+IMDB 데이터 세트를 다운로드
+
+# 데이터셋을 다운로드 하고 MachineLearning/data/aclImdb 디렉토리에 압축을 풀어줍니다. 
+
+https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
